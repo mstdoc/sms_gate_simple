@@ -11,5 +11,6 @@
         "psr-4": {
             "Mstdoc\\SmsGateSimple\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "stable",
 }
