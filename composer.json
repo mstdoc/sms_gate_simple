@@ -12,5 +12,5 @@
             "Mstdoc\\SmsGateSimple\\": "src/"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "stable"
 }
