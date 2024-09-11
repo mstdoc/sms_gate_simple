@@ -1,0 +1,15 @@
+{
+    "name": "mstdoc/sms_gate_simple",
+    "description": "Sms gate",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "ext-json": "*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mstdoc\\SmsGateSimple\\": "src/"
+        }
+    }
+}
